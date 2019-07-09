@@ -2,4 +2,4 @@
 
 ## Demo
 
-Access the website at [Github Pages](https://king-melchizedek.github.io/portfolio/).
+Access the website at [Github Pages](https://ethanmiller1.github.io/).
