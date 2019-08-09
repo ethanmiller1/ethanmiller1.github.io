@@ -91,6 +91,9 @@
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
 
+.nav-item:nth-child(5) {
+  transition-delay: 0.5s; }
+
 /*! CSS Used from: https://forrestknight.github.io/css/styles.css */
 .project-thumbnail {
   height: 250px;
